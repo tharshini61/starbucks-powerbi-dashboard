@@ -31,7 +31,8 @@ This project analyzes customer behavior using the Starbucks dataset and visualiz
 ## Dashboard Preview
 The Complete starbucks Customer Behavior Analysis dashboard is available.
 ## Dashboard Preview
-<img width="1324" height="583" alt="image starbucks " src="https://github.com/user-attachments/assets/ed43f7eb-4aff-4e64-a92c-74f5ddbfcb07" />
+<img width="1366" height="768" alt="starbucks image1" src="https://github.com/user-attachments/assets/594bfe13-2323-4738-81e6-10bf51fe0c6a" />
+
 
 
 ## Author
